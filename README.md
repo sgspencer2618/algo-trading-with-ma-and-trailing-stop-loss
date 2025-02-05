@@ -40,3 +40,6 @@ As can be seen from the graphs above, the algorithm was profitable for the major
 # Credits
 
 Case starter page: https://inside.rotman.utoronto.ca/financelab/cases/algorithmic-market-making-case-v1-2/ Copyright © Rotman School of Management, University of Toronto | BMO Financial Group Finance Research and Trading Lab
+
+# License
+MIT License Copyright (c) 2024
